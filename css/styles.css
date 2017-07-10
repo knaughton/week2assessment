@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+}
+
+.heading {
+  text-align: center;
+  color: white;
+  border-top: 1px solid white;
+  margin-top: 40px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.form {
+  background-color: white;
+  width: 500px;
+  height: 475px;
+  border-style: outset;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  margin-top: 100px;
+}
+
+input[type="text"] {
+  width: 450px;
+  height: 40px;
+  border-style: solid;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-right: 10px;
+  padding-left: 10px;
+}
+
+.heading:hover {
+  border: 1px solid #777;
+}
+
+.email {
+  width: 450px;
+  height: 40px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.password {
+  width: 450px;
+  height: 40px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.email:hover {
+  color: lightblue;
+}
